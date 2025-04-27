@@ -315,15 +315,15 @@
  <details>
   <summary>Чек-листы и Баг-репорты</summary>
 
- [Чек-листы и Баг-репорты](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing)
+ [Чек-листы и Баг-репорты, ссылка на докемент](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing)
 
   </details>
  
  
  <details>
   <summary>Отчёт о тестировании</summary>
-  
-  [Отчёт о тестировании](hhttps://docs.google.com/document/d/1gpl_Xx5YgNa9D8BnXjO003FFYcKc2DOcitlFGRdEM3A/edit?usp=sharing)
+
+  [Отчёт о тестировании, ссылка на докемент](https://docs.google.com/document/d/1gpl_Xx5YgNa9D8BnXjO003FFYcKc2DOcitlFGRdEM3A/edit?usp=sharing)
  
  
  # Отчет о тестировании Яндекс.Метро
