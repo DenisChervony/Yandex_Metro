@@ -308,7 +308,6 @@
  [Макет в Figma](https://www.figma.com/design/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0-1&node-type=canvas&t=jPISq6uajtHlm1b4-0)
 
  
-   <img src="https://github.com/DenisChervony/web-images/blob/main/maket_figma.png alt="Denis Chervony" align="center" style="width:100%; height:auto;">
 
  </details>
  
@@ -337,11 +336,11 @@
 Версия Яндекс.Метро: 3.6.
 
 
-Все требования, затронутые изменениями, были покрыты чек-листом [ссылка на Google-таблицу)](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing). 
+Все требования, затронутые изменениями, были покрыты чек-листом [ссылка на Google-таблицу](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing). 
 
-Также написан регрессионный чек-лист: [ссылка на Google-таблицу)](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing). 
+Также написан регрессионный чек-лист: [ссылка на Google-таблицу](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing). 
 
-Результаты выполнения тестов можно посмотреть здесь: [ссылка на Google-таблицу)](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing). 
+Результаты выполнения тестов можно посмотреть здесь: [ссылка на Google-таблицу](https://docs.google.com/spreadsheets/d/1Y3vnKlT3PDjsaYkxcgJ_pLwlawlEAwJJbat9BNtxkkU/edit?usp=sharing). 
 
 
 Из 56 успешно прошло 46, не прошло — 10.
