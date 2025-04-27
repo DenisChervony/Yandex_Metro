@@ -27,9 +27,9 @@
  - Honor 8, 
  - ОС Android 9.0 Pie, 
  - разрешение экрана 1080х1920, 
- - диагональ 5.5.
-   
- *Важно**: тестирование необходимо провести на эмуляторе Android Studio.
+ - диагональ 5.5. 
+  
+ **Важно**: тестирование необходимо провести на эмуляторе Android Studio.
  </details>
  
  
@@ -95,7 +95,7 @@
  
  ## Ограничения полей для построения маршрута
  
- ![image](https://github.com/user-attachments/assets/e367756e-ca10-44c1-9de7-623d7f6fda4b)
+ <img src=" https://github.com/DenisChervony/web-images/blob/main/Org_Pole.jpg" alt="Denis Chervony" align="center" style="width:100%; height:auto;">
  
  ## Выбор станции на карте
    Пользователь может выбрать станцию маршрута на карте:
