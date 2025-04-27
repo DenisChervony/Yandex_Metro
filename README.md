@@ -307,7 +307,7 @@
  
  [Макет в Figma](https://www.figma.com/design/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0-1&node-type=canvas&t=jPISq6uajtHlm1b4-0)
 
- <img src="https://github.com/DenisChervony/web-images/blob/main/maket_figma.png" alt="Denis Chervony" align="center" style="width:80%; height:auto;">
+ <img src="https://github.com/DenisChervony/web-images/blob/main/maket_figma.png" alt="Denis Chervony" align="center" style="width:50%; height:auto;">
  
 
  </details>
