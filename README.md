@@ -70,7 +70,7 @@
     Как отмечается активная станция — см. на макетах.
  
  ## Область ввода
-    В зависимости от ориентации устройства область ввода станций метро располагается в разных частях интерфейса
+   В зависимости от ориентации устройства область ввода станций метро располагается в разных частях интерфейса
  
  
  # Построение маршрута
@@ -94,8 +94,7 @@
  на макетах.
  
  ## Ограничения полей для построения маршрута
- 
- <img src=" https://github.com/DenisChervony/web-images/blob/main/Org_Pole.jpg" alt="Denis Chervony" align="center" style="width:100%; height:auto;">
+ <img src="https://github.com/DenisChervony/web-images/blob/main/Org_Pole.jpg" alt="Denis Chervony" align="center" style="width:100%; height:auto;">
  
  ## Выбор станции на карте
    Пользователь может выбрать станцию маршрута на карте:
