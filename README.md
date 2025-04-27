@@ -307,6 +307,7 @@
  
  [Макет в Figma](https://www.figma.com/design/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0-1&node-type=canvas&t=jPISq6uajtHlm1b4-0)
 
+<img src="https://github.com/DenisChervony/web-images/blob/main/maket_figma.png alt="Denis Chervony" align="center" style="width:100%; height:auto;">
  
 
  </details>
@@ -328,11 +329,17 @@
  # Отчет о тестировании Яндекс.Метро
  
 Тестирование проводилось в следующем тестовом окружении: 
+
 Эмулятор: Android Studio, 
+
 Устройство: Honor 8, 
+
 ОС: Android 9.0 Pie - API 28, 
+
 Разрешение экрана: 1080х1920, 
+
 Диагональ: 5,5,
+
 Версия Яндекс.Метро: 3.6.
 
 
