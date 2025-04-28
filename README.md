@@ -9,8 +9,8 @@
   
 - [текущая версия приложения,](https://code.s3.yandex.net/qa/files/yandexmetro-android-v2.13.apk) которую пользователи скачивают из стора;
 - [готовящаяся сборка;](https://code.s3.yandex.net/qa/files/yandexmetro-android-v3.6.apk)
-- [требования к Яндекс Метро.](https://code.s3.yandex.net/qa/files/Yandex_metro.pdf)
-- [Макет в Figma](https://www.figma.com/design/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0-1&node-type=canvas&t=jPISq6uajtHlm1b4-0)
+- [требования к Яндекс Метро;](https://code.s3.yandex.net/qa/files/Yandex_metro.pdf)
+- [Макет в Figma.](https://www.figma.com/design/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0-1&node-type=canvas&t=jPISq6uajtHlm1b4-0)
   
  </details> 
  
