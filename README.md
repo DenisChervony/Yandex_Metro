@@ -6,8 +6,11 @@
  
  <details>
    <summary>Ссылки для работы</summary>
+  
 - [текущая версия приложенияъ,](https://code.s3.yandex.net/qa/files/yandexmetro-android-v2.13.apk) которую пользователи скачивают из стора;
-- [готовящаяся сборка;](https://code.s3.yandex.net/qa/files/yandexmetro-android-v3.6.apk) 
+  
+- [готовящаяся сборка;](https://code.s3.yandex.net/qa/files/yandexmetro-android-v3.6.apk)
+  
 - [требования к Яндекс Метро.](https://code.s3.yandex.net/qa/files/Yandex_metro.pdf) 
   
  </details> 
